@@ -2,8 +2,9 @@
   padding: 20px 0;
 }
 .nav {
+  font-size: 24px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 .nav-logo {
   display: inline-flex;
